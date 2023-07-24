@@ -4,6 +4,7 @@ import json
 from dotenv import load_dotenv
 import openai
 
+from transformers import pipeline
 from src.config import MODEL, TEMPERATURE, MAX_NUM_STORIES, STORIES_FILE_PATH, EVALUATION_FILE_PATH
 from src.obj_models import Story
 from src.file_utils import save_aggregated_results_to_file
@@ -11,6 +12,16 @@ from src.models import generate_game_story, evaluate_game_story_ending, rate_lim
 
 
 def main():
+    converse = None
+    if MODEL != "gpt-3.5-turbo" and MODEL != "gpt-4":
+        hf_auth_token = os.getenv("HF_AUTH_TOKEN")
+
+        if hf_auth_token is None:
+            raise ValueError("HF_AUTH_TOKEN is not set.")
+
+        converse = pipeline("conversational", model=MODEL, use_auth_token=hf_auth_token, temperature=TEMPERATURE,
+                            max_length=4096)
+
     current_count = 0
     if os.path.isfile(STORIES_FILE_PATH):
         with open(STORIES_FILE_PATH, "r") as f:
@@ -20,7 +31,7 @@ def main():
     print(f"Model: {MODEL}, Temperature: {TEMPERATURE}")
     while current_count < MAX_NUM_STORIES:
         print(f"--- Progress: {current_count}/{MAX_NUM_STORIES} ---")
-        generate_game_story()
+        generate_game_story(converse_pipeline=converse)
         current_count += 1
         rate_limit_sleeper()
 

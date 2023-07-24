@@ -1,10 +1,9 @@
 import json
-import os
 import random
 import re
 import time
 
-from transformers import pipeline, Conversation
+from transformers import Conversation
 import openai
 
 from src.obj_models import Story, Ending
@@ -12,21 +11,13 @@ from src.file_utils import save_story_obj_to_file, save_evaluation_to_file
 from src.config import MODEL, TEMPERATURE
 
 
-def get_chat_response(prompt: str, model=MODEL, temperature=TEMPERATURE) -> (str, str, float):
+def get_chat_response(prompt: str, model=MODEL, converse_pipeline=None, temperature=TEMPERATURE) -> (str, str, float):
     if model != "gpt-3.5-turbo" and model != "gpt-4":
-        hf_auth_token = os.getenv("HF_AUTH_TOKEN")
-
-        if hf_auth_token is None:
-            raise ValueError("HF_AUTH_TOKEN is not set.")
-
-        hf_temp = temperature / 2
         print("Initiated chat with LLaMa-2.")
-        converse = pipeline("conversational", model=model, use_auth_token=hf_auth_token, temperature=hf_temp,
-                            max_length=4096)
         conversation = Conversation(prompt)
-        completion = converse(conversation).generated_responses[-1]
+        completion = converse_pipeline(conversation).generated_responses[-1]
         print("Completed chat with LLaMa-2.")
-        return completion, model, hf_temp
+        return completion, model, -1
     else:
         print("Initiated chat with OpenAI API.")
         completion = openai.ChatCompletion.create(model=model,
@@ -37,7 +28,7 @@ def get_chat_response(prompt: str, model=MODEL, temperature=TEMPERATURE) -> (str
         return completion.choices[0].message.content, model, temperature
 
 
-def generate_game_story() -> Story:
+def generate_game_story(converse_pipeline=None) -> Story:
     PROMPT = """Please write a brief 300-word game story synopsis with an ending. Please make sure to format your output as a code block using triple backticks (```json and ```).
 
 Output format:
@@ -48,7 +39,7 @@ Output format:
 }
 ```"""
 
-    story_str, model, temp = get_chat_response(PROMPT)
+    story_str, model, temp = get_chat_response(PROMPT, converse_pipeline=converse_pipeline)
     if "```json" in story_str:
         story_str = re.search(r"```json(.*)```", story_str, re.DOTALL).group(1).strip()
     if re.search(r"\{.*}", story_str, re.DOTALL) is None:
