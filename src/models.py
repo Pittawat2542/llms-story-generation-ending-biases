@@ -91,6 +91,9 @@ Output format:
 
 
 def rate_limit_sleeper():
+    if MODEL != 'gpt-3.5-turbo' and MODEL != 'gpt-4':
+        return
+
     sleep_time = random.randint(3, 7)
     print(f"Sleeping for {sleep_time} seconds.")
     time.sleep(sleep_time)
