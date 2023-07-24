@@ -17,7 +17,7 @@ def get_chat_response(prompt: str, model=MODEL, converse_pipeline=None, temperat
         conversation = Conversation(prompt)
         completion = converse_pipeline(conversation).generated_responses[-1]
         print("Completed chat with LLaMa-2.")
-        return completion, model, -1
+        return completion, model, temperature
     else:
         print("Initiated chat with OpenAI API.")
         completion = openai.ChatCompletion.create(model=model,
