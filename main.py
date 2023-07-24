@@ -52,7 +52,7 @@ def main():
             print(f"--- Progress: {story_objs.index(story_obj)}/{len(story_objs)} ---")
             story = Story('', '')
             story.from_json(story_obj)
-            evaluate_game_story_ending(story)
+            evaluate_game_story_ending(story, converse_pipeline=converse)
             rate_limit_sleeper()
 
     print("Finished evaluating game story endings.")

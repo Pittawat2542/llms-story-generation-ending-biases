@@ -53,7 +53,7 @@ Output format:
     return story_obj
 
 
-def evaluate_game_story_ending(story: Story) -> Ending:
+def evaluate_game_story_ending(story: Story, convere_pipeline=None) -> Ending:
     PROMPT = f"""Please identify the type of ending in this story. Please make sure to format your output as a code block using triple backticks (```json and ```).
 
 Title: {story.title}
@@ -66,7 +66,7 @@ Output format:
 {{ "ending": "positive", "negative", or "neutral" }}
 ```"""
 
-    ending_str, model, temp = get_chat_response(PROMPT, temperature=0)
+    ending_str, model, temp = get_chat_response(PROMPT, temperature=0, converse_pipeline=convere_pipeline)
     if "```json" in ending_str:
         ending_str = re.search(r"```json(.*)```", ending_str, re.DOTALL).group(1).strip()
     if re.search(r"\{.*}", ending_str, re.DOTALL) is None:
