@@ -24,7 +24,7 @@ def get_chat_response(prompt: str, model=MODEL, temperature=TEMPERATURE) -> (str
         converse = pipeline("conversational", model=model, use_auth_token=hf_auth_token, temperature=hf_temp,
                             max_length=4096)
         conversation = Conversation(prompt)
-        completion = converse(conversation)
+        completion = converse(conversation).generated_responses[-1]
         print("Completed chat with LLaMa-2.")
         return completion, model, hf_temp
     else:
