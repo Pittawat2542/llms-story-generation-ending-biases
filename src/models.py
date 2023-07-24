@@ -53,7 +53,7 @@ Output format:
     return story_obj
 
 
-def evaluate_game_story_ending(story: Story, convere_pipeline=None) -> Ending:
+def evaluate_game_story_ending(story: Story, converse_pipeline=None) -> Ending:
     PROMPT = f"""Please identify the type of ending in this story. Please make sure to format your output as a code block using triple backticks (```json and ```).
 
 Title: {story.title}
