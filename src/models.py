@@ -66,7 +66,7 @@ Output format:
 {{ "ending": "positive", "negative", or "neutral" }}
 ```"""
 
-    ending_str, model, temp = get_chat_response(PROMPT, temperature=0, converse_pipeline=convere_pipeline)
+    ending_str, model, temp = get_chat_response(PROMPT, temperature=0, converse_pipeline=converse_pipeline)
     if "```json" in ending_str:
         ending_str = re.search(r"```json(.*)```", ending_str, re.DOTALL).group(1).strip()
     if re.search(r"\{.*}", ending_str, re.DOTALL) is None:
