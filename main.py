@@ -13,7 +13,12 @@ from src.models import generate_game_story, evaluate_game_story_ending, rate_lim
 
 def main():
     converse = None
-    if MODEL != "gpt-3.5-turbo" and MODEL != "gpt-4":
+    current_count = 0
+    if os.path.isfile(STORIES_FILE_PATH):
+        with open(STORIES_FILE_PATH, "r") as f:
+            current_count = json.load(f)["count"]
+
+    if MODEL != "gpt-3.5-turbo" and MODEL != "gpt-4" and current_count < MAX_NUM_STORIES:
         hf_auth_token = os.getenv("HF_AUTH_TOKEN")
 
         if hf_auth_token is None:
@@ -21,11 +26,6 @@ def main():
 
         converse = pipeline("conversational", model=MODEL, use_auth_token=hf_auth_token, temperature=TEMPERATURE,
                             max_length=4096)
-
-    current_count = 0
-    if os.path.isfile(STORIES_FILE_PATH):
-        with open(STORIES_FILE_PATH, "r") as f:
-            current_count = json.load(f)["count"]
 
     print("=== Generating game stories ===")
     print(f"Model: {MODEL}, Temperature: {TEMPERATURE}")
@@ -46,6 +46,15 @@ def main():
             story_objs = [story_obj for story_obj in story_objs if
                           story_obj["id"] not in [ending_obj["story_id"] for ending_obj in
                                                   json.load(open(EVALUATION_FILE_PATH, "r"))["evaluations"]]]
+
+        if MODEL != "gpt-3.5-turbo" and MODEL != "gpt-4" and len(story_objs) > 0:
+            hf_auth_token = os.getenv("HF_AUTH_TOKEN")
+
+            if hf_auth_token is None:
+                raise ValueError("HF_AUTH_TOKEN is not set.")
+
+            converse = pipeline("conversational", model=MODEL, use_auth_token=hf_auth_token, temperature=0,
+                                max_length=4096)
 
         print(f"Number of stories to evaluate: {len(story_objs)}")
         for story_obj in story_objs:
