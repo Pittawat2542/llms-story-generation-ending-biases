@@ -1,0 +1,705 @@
+{
+  "evaluations": [
+    {
+      "ending": "positive",
+      "id": "c52084bc-a7cb-4c82-a59d-6ddd9795d8d9",
+      "story_id": "59e8ed8e-f5c9-40a2-95ae-ad25fbec501e",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "38ac0c9d-3e3e-4d4e-890c-4807dd484e5d",
+      "story_id": "8cfb992e-1fcf-49d5-9a4d-8847fd63c5bd",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1be6483d-3af5-4fa7-ac0b-b29793931253",
+      "story_id": "8a462d72-bcce-4df0-b13b-a4b66e10b98a",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e951d2f3-a19b-4c2f-8d98-2a47d264930b",
+      "story_id": "e7ec062d-f849-4c08-b71c-8e4020c72739",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c7de3146-b0de-4c8b-9fe1-476feec2d235",
+      "story_id": "8287e412-e437-4245-8dc8-146cdae806eb",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "96268a00-18c7-413c-9550-681043f4bf3a",
+      "story_id": "e878bb21-f996-44a7-a737-d4a1c659c08f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5b551772-9b11-4fcd-8da0-5bd91a0a7710",
+      "story_id": "9443510b-03cc-407a-b1ba-fe85f90db6ad",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6541cdb3-5846-4ab4-96a3-6795bf027c2d",
+      "story_id": "a2dd383b-5ec0-4d28-83aa-fd1a6b568775",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "57067566-5a03-48a1-a610-61e0e8868b06",
+      "story_id": "de19cf47-65db-4ed3-86ff-4686d51f5662",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "130f25eb-d397-4175-802d-7ac107499ccc",
+      "story_id": "c75cf903-1dba-4af0-9dea-8a1ad82e3b3b",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5c4dfe9d-4240-4aed-8aee-b69e41edab01",
+      "story_id": "fcce0221-8270-4c70-b731-a20efd27c520",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1409930e-685d-41f4-a529-ecf3641c1b1c",
+      "story_id": "7e56f6ee-8efd-4128-b878-76861c89ab24",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d6276244-2340-442c-8444-29d367c8a627",
+      "story_id": "dc8b082b-4bfd-457d-82aa-dd0da7bd1a5b",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e280205d-ccfa-4029-8ef9-6f49775a3c00",
+      "story_id": "3c4781ac-9cc6-4beb-87d3-93e223468127",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "eb3d1303-d6d4-4cbe-8848-ed73daa80a3a",
+      "story_id": "4f149943-bd1f-47bc-aa5b-270f14149ed6",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b4272b86-a96f-408d-a0cf-e95c9682c2b9",
+      "story_id": "9d15b9d2-14ad-4217-89a0-ae172b0a42d2",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f12bad65-c377-43ed-8ef3-07f6117bbfe0",
+      "story_id": "a7f87b1e-a550-487b-b4de-68e04c06ee2f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5fd125ec-31c0-4e7b-88f1-0ae612900889",
+      "story_id": "a45dc7d5-bb9c-4eda-a72f-a115cbda28de",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b67aec4a-410f-4bb0-93ac-a17d303f7447",
+      "story_id": "5f13358e-d623-4581-8ae0-86aa56b87d1a",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "18bbe8d6-47ca-4260-9cae-8c7b20b146b3",
+      "story_id": "6de530de-7cbf-4649-8405-182467c06310",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4f61b59e-2e11-4169-9b5d-e1eab3942fcf",
+      "story_id": "cd977baf-fb05-4971-bffb-c9f85871f425",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "negative",
+      "id": "667af185-93da-4ca8-8d92-61a011113f29",
+      "story_id": "46850e47-4932-43d2-9a4c-d4a2e300ef2f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a3320c5a-df4d-4e56-a5e9-5f72c8ba8850",
+      "story_id": "92f3ba91-0fa7-4c85-b394-dd85e8cf4767",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d0e996d9-f3cb-4853-9671-17f791e025e8",
+      "story_id": "199a17e4-4a1d-416c-abf6-b934e4028879",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4a9bfb98-ebf5-46e9-ae80-8efec8323295",
+      "story_id": "eb4c7b59-c62a-4832-8fd8-c9be32ba740b",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "71002c94-14e2-4958-b8f9-325354bafccd",
+      "story_id": "5815ca75-e62e-4aeb-a837-f068ca6a5353",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f01c965a-4ad6-4af7-9eaa-4073e5b8ab5d",
+      "story_id": "442a5079-3df5-4078-b700-7fbc254f42be",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "53306ae4-332b-4b31-85f9-e16b4c22dbe5",
+      "story_id": "d769ba89-5e0f-4a6b-a529-c11b4e272651",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0d1944fc-88e0-463b-b732-1ac4aaf099ff",
+      "story_id": "a1d20ae6-a03a-41f4-abd9-495b10159622",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e1240bf2-eb63-40c6-9ebf-9492cdb10629",
+      "story_id": "c3eaee48-b46d-4c06-859a-0abc445d784c",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3c96f5ac-372c-4c21-abcf-cb0cc8f58df3",
+      "story_id": "b06bb595-398f-4b4a-b126-0aa5dfc71806",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "26c8f67c-5fdf-49fb-9a54-c3b9a503866d",
+      "story_id": "4244aba1-1f14-4a28-999d-87e30924dd4d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1d66a924-7b0e-4d99-9522-7420470e6592",
+      "story_id": "8ce1b9fd-a664-43ee-b44b-c49c758f073e",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4a72eeb1-92d3-46b7-8f01-5662b967d467",
+      "story_id": "686d196c-5037-4ba7-a9d1-79825978f23d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1dc033be-2ac1-4c13-b4b3-f8d288a2bbb3",
+      "story_id": "52a29883-91b5-4fe9-81e3-4326540f1e80",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e1aeeaf9-d509-4223-9dfd-106ac089870a",
+      "story_id": "aab8cc75-e0b8-433f-99b9-7dd1f4b85e70",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "883929a6-d81f-44da-a3c7-355a6f10afae",
+      "story_id": "33d49d5e-6369-486f-85bd-898fa0a797e4",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f7631372-c568-4f2e-94a0-4e837fbd2dae",
+      "story_id": "3f36e62e-01d3-4c29-9098-8e293901fbca",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fa8048f0-28ea-46e0-b63d-d5ea6fc2ed8a",
+      "story_id": "32585b3c-b649-4e2a-9ecc-3bf7cb770513",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fd67d58c-8a5e-479b-abaa-84e182144cef",
+      "story_id": "c5021850-15e0-4bc3-afb9-0e97f67688ef",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b4c7f932-6a53-41e9-bafd-33eabc8f75cd",
+      "story_id": "4ab46ae7-fd6c-49b3-b3e3-42f393784e69",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6ece450d-9baa-4391-be2c-38af90c8b2db",
+      "story_id": "c49243ef-d5a7-4fc9-9efc-4f0b6f94b771",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c7fb9cbf-a46d-4b74-9826-dcf4313d0709",
+      "story_id": "42a2efdf-354f-463a-aa48-730c1b512a68",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5bedf3eb-93a2-448a-92c6-f51fad5bb9da",
+      "story_id": "00bc7ebb-55e2-4840-9669-036e6be4956c",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "830939a3-a210-4e9f-adc6-f469be94406e",
+      "story_id": "ad5ab837-ed38-43e3-81bb-23fd5e25067d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3999c928-8a9f-486e-8407-51bcb6f166d9",
+      "story_id": "adfc17fe-6561-4c62-a2d3-a627d5cbcd26",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ccd5aba6-a250-43fe-ad49-42c877a076bd",
+      "story_id": "e3a03ea4-7a68-4e56-a202-ec0c8d67c0ed",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "77ff08b8-a666-413f-b0c0-3e3db3cdf3d5",
+      "story_id": "b92da7bd-803e-45dc-b845-b162f46ea564",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "09afa2ad-97fb-4c8b-8a5a-bda3425f1907",
+      "story_id": "8443251b-eaa0-4ece-8ef9-8136c1255fc2",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "04b7c138-00ec-4c35-95b5-c70da41698cc",
+      "story_id": "74ced90b-eb44-4f79-b309-f0ed5e34b4d0",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9435d003-ddcc-4fce-b585-9a103e59a44c",
+      "story_id": "52c6f4c9-c721-4290-9bc1-1cb42c64ccc2",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e58fe8d7-64f4-499e-989f-f0e75357a266",
+      "story_id": "d78f09b0-4c47-40ed-b7d6-66b6666ac6ac",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4df03160-bc22-48b2-a649-2f6e9808c3c2",
+      "story_id": "0f7ab63a-8640-444b-bbed-29250d005b38",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e334a9c3-8faa-4f32-93fd-44536e6cf6f6",
+      "story_id": "f5042017-dbd7-4e22-b11d-5fee28989795",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f623409e-dae4-43ba-8078-8eac9e455dbe",
+      "story_id": "abcb707f-adf1-417f-8921-03dfec2f120e",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "14748a35-8c34-4c98-ab24-3f21f4b83f5a",
+      "story_id": "c1b26823-95a5-4a45-8782-1fd906077f0f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "29ce2b1e-0b0a-4666-879f-531b7b6471f9",
+      "story_id": "a01df4b0-7497-4334-a91f-6fcbafd0425d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ea7aea97-46b9-4ccd-a94f-c8786d413a21",
+      "story_id": "f6f4d08d-1a56-4501-9fea-bec5ca85165f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1d454bc3-ea68-481b-a981-07bd93d6bf32",
+      "story_id": "3d1fe3be-45de-4b0b-99c5-54cd61c90903",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c13b4ef3-c2ea-4b51-824b-a31a9f2c7fd5",
+      "story_id": "c00d0f0a-885d-4cc9-8782-3fa480abcc27",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8c3e4e55-e613-49c1-8f07-099d4b156754",
+      "story_id": "fe84ea21-293b-4291-9a85-775401897b34",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "01c0b395-757b-46bb-8011-12a07b366e91",
+      "story_id": "5ad59c2a-92e0-440c-9157-a894e7670c92",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e3a190dc-ef67-4163-8654-6a81bd220a67",
+      "story_id": "31589e23-3f38-4b27-bfe1-f109512cb391",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "bittersweet",
+      "id": "a7bd8cd3-16be-40e7-924d-0f3238315818",
+      "story_id": "70bf585f-3946-4fa0-94b5-9356261b824f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "245887ac-8068-4497-9536-d4cf310369a4",
+      "story_id": "d91ea2c6-24bf-45a7-8ec6-33991e09bc7e",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0b4b1eb3-b3be-47ae-91f4-e74f7190f0ed",
+      "story_id": "ed662830-1894-4cdd-a771-a7e85212deb2",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "280ebea2-c28d-46cd-8630-9428e070da78",
+      "story_id": "a4f4cc80-296d-43d8-a9e8-15cabf04cfe0",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0eb51dbc-309a-41d0-94c7-ef8129d0941a",
+      "story_id": "1ab372db-b219-420a-b506-f9cc6dc4ea2f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f3877280-c132-4a50-8730-51ade2af979b",
+      "story_id": "bac0d1e2-612b-42d7-a8db-53295d79e380",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8f993990-c1ae-4333-81b1-23922d3eb9f4",
+      "story_id": "523c8bcc-9e2d-423b-87c7-ff9dd46a29c3",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "389ffbab-c869-4c57-b63d-0c34c6b9c2b4",
+      "story_id": "b64b3197-a7c3-448a-9fdb-a0eacb4f4840",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "09620d21-0272-4dee-aaa0-c8bfa8f2ad6e",
+      "story_id": "fd2d6e17-0986-4aa6-a9e1-dd199ff10beb",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5d34b620-33ce-41ea-a833-8ae9bc1b9aa5",
+      "story_id": "1e9e5661-2497-4f7f-ade3-bce2e8228d98",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8aa2f67e-e00a-4c5d-bab6-accc6ec445ec",
+      "story_id": "04a77023-64ca-4247-8351-45f06ab962e5",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7d875fb0-14f2-4547-b3dc-7e9b3b659d1d",
+      "story_id": "5d6e0439-5781-4c11-85cc-2e01ad83d202",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "adfde9ad-13e4-4727-863d-fb285fc834a7",
+      "story_id": "d70a2b2f-bc93-4cb8-a930-fcdec9629ddf",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a48a40cc-4b20-45e0-899b-cfc357ed3c7e",
+      "story_id": "fd65b204-8280-4560-8624-650e335f70e7",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "01c7b121-1bff-4ab6-afe7-0f12b8f915d7",
+      "story_id": "547420a4-61c8-4811-80c1-36d2bad6da07",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ee9dbf3d-ca91-47a0-a387-844964174f9f",
+      "story_id": "e5e464e1-ad49-4b71-810f-21fa6616213f",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0b5d4608-1d29-4995-b849-3a03d81979f7",
+      "story_id": "5a16e7d4-e6e5-43ec-95e3-cb788d03c772",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "51d32b45-f4b6-4c86-884a-e41dc2d2f4eb",
+      "story_id": "bb5c5c94-dbfa-42c2-9ff3-9829882d1a84",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f2385980-357b-4d0b-a0e0-0ee50a5be496",
+      "story_id": "af0ba504-274e-435d-8ca0-bc88c4720cd6",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1552d2b1-60a0-4153-9ff9-6c394b5c1e9c",
+      "story_id": "1b332a3d-eda7-41e3-945b-0c3ccc064d58",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "de5a56cd-1585-4bcd-99c1-d44e3797da5e",
+      "story_id": "0d1268c6-54ee-4746-823a-1f9781a20943",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "39e7523a-00e2-4b40-959c-bea457d3fc5c",
+      "story_id": "05931a23-da82-474b-b3ce-37dca95e20d5",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "89e0bcec-a4f7-4000-bdbf-078600d1f996",
+      "story_id": "dbab12ab-18bd-46b4-be68-f0dbba7a2031",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1bc0a876-c135-431d-9950-2dfb55ecc7ad",
+      "story_id": "501efbb2-ab66-4ae8-9f89-f82ca1b0aef7",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "08515869-1dfb-4dfd-ba51-cfb2706559f6",
+      "story_id": "6efd842a-e553-42d5-98fc-8d45a4a035db",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "28bcfc08-6c46-4d75-ae31-803500fa76be",
+      "story_id": "3b28dfca-a00c-4a40-97b4-a8c6981fe4a7",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b2be1a53-311c-4fec-88e3-acd262e7bb47",
+      "story_id": "4e5cf70b-bc8d-4a1f-93fa-da44e7350973",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "02d42f05-fffe-426a-b2f6-0448629528c9",
+      "story_id": "49146612-17a4-4b79-aa92-e12bfa736da1",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "34070007-cb68-40a6-9514-17d96c08dd0d",
+      "story_id": "75bf9188-cf54-4eb3-b4ce-61fb7f0f9a86",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "72651e49-151f-4e61-bdbf-1ca8e82c1f23",
+      "story_id": "824b0e5a-6a08-4501-afc6-efbe9a4a964d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "14d49965-7e7b-46a7-9b0d-f4bd7217345c",
+      "story_id": "637628b5-dd0f-4c0e-8591-06f859189e4d",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2fed3a1c-5bc9-49aa-9b6b-339f0c14e8b6",
+      "story_id": "39816a9c-515b-4ec3-8301-629d8d861033",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "73a53787-2abe-4fd6-9deb-a40baa8f7d7f",
+      "story_id": "a54b4279-0f79-4d5c-836e-70f2bc7d0303",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c0053641-1d5f-4d8e-a40f-de96d592ab57",
+      "story_id": "fad29b80-b847-4171-9faa-fd1536552a09",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d6f442f2-7ec1-4361-8a21-bedb16146ff5",
+      "story_id": "da84e469-52e2-4db4-a21a-75e384548d4a",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cef811b8-a3d8-4cce-855b-fc38aebf4d0d",
+      "story_id": "6367f230-d37e-4b4c-aa73-ab75a24c9c0b",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "863de6ce-6ed8-44cc-b17e-52a98b2f1018",
+      "story_id": "d5299b1f-d7d5-4652-ad83-0a7a4130f8ae",
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "temperature": 0
+    }
+  ],
+  "count": 100
+}

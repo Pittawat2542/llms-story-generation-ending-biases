@@ -1,0 +1,705 @@
+{
+  "evaluations": [
+    {
+      "ending": "positive",
+      "id": "eea34e86-142b-43b0-a061-32c5a8aeff74",
+      "story_id": "d6c291d3-d211-4e2f-8a2b-2f4fa251e469",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "351a57e6-f3b9-4845-b074-044269e50661",
+      "story_id": "3f2cec65-624d-40ed-afaf-ce3b5e3a8908",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ebfe8e43-652b-48b6-9bd2-030cfb9e5575",
+      "story_id": "f0a3574c-9052-41d4-a0d8-39c77ce1b6ce",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b11ee2f3-f153-4862-b02a-a0fd7f31b451",
+      "story_id": "791d9018-abc4-4c0d-b086-c7be680a5ede",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2be9b029-3049-41cd-8893-3d25ec841936",
+      "story_id": "57388f0e-03ee-44c8-8750-d7344ad7a614",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "41928411-d755-4b71-8bf7-b23b31e300a7",
+      "story_id": "b2f3f490-8577-4e45-8458-8bfd17be761b",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ad4e66ce-07cc-4994-8cda-76316b9c46b2",
+      "story_id": "3374348e-ed42-418e-afd0-6e2ff76e273e",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9e8941d1-74cf-4195-ab12-0331bc69c1ea",
+      "story_id": "4f1d0d31-eddf-44eb-bd92-004386afaf81",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b8350913-0837-4c58-a5d7-55b252c7beea",
+      "story_id": "79fa7560-0ce5-41ca-b9cc-52f416f8dfda",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "828f0025-be02-4ce4-8982-c0f62f3cd86d",
+      "story_id": "9923f1f8-6aa9-446d-846d-263250ef2050",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0d247b46-bcc1-42b9-a2d0-3e1db5bada5e",
+      "story_id": "c6f7aae2-baac-400b-ba51-030c350fe136",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6ac99c75-9739-4a5c-8174-8718a26e1cb3",
+      "story_id": "217e5b4a-ebc6-416c-834c-eea876f58526",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e3b61d80-67fd-40bd-9661-cb67b9546369",
+      "story_id": "29b8151b-95cc-46c4-8595-e2eec5a4ae1e",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7caf347b-93cc-48e8-bfee-f26fc6c0027d",
+      "story_id": "c3306e40-9b99-448c-84f0-686545f3d1a6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6b736f13-598b-4282-9f72-112a0ffa18b6",
+      "story_id": "ce92edcf-ce3d-496d-8371-5671b51c9c27",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b7c1e950-b458-4e96-a726-698e03befad1",
+      "story_id": "74576758-4367-40c1-9341-53b3935b03fd",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f94fa0ef-20a4-4d81-a567-6c95d1737b33",
+      "story_id": "9cd0bab8-2375-447d-a589-e894a4dde1f2",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6dc65102-7ce4-47bb-a83c-6765bc055e7f",
+      "story_id": "147c2b4f-5705-4bc4-8956-1a4c84b99f2b",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2b55d838-9a5a-4118-8063-e5a89476afdf",
+      "story_id": "17e19211-a48b-4d09-8f4f-a997c159a8e5",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1ecd172e-ca8d-4c4b-a751-873a477082c9",
+      "story_id": "1bf5a82f-a274-4420-8857-62a23b4dc178",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8fa1ee05-d8e4-4dd8-9dbc-2fae16c7f284",
+      "story_id": "8351733d-ed39-40f3-912c-fcd3256579b8",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "832edbb3-7a9f-4939-814e-e07f8c3eb5e2",
+      "story_id": "b09ea355-9535-4b4c-883f-e196337216d3",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7b0f7503-3485-4049-bcd5-b8c8435e2762",
+      "story_id": "ab9e1d86-2d95-49de-a0f1-27c94b8d46d1",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8943c654-96dc-48c3-9ffe-701ea9be7331",
+      "story_id": "fdf982f0-2624-436c-9c61-d5d6b44dd7cc",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "57b7687c-72b8-4760-ac7c-f1b8f7cd3c4d",
+      "story_id": "5563e39d-4a18-4cd0-bcca-92daab46ff66",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "33307a0f-f7ce-43d1-821f-38ad646289df",
+      "story_id": "7f2a94b0-d509-4945-89fa-e7c0bc5d48c6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "24a97620-08d6-4ab9-a1cf-d221e8d1fd8a",
+      "story_id": "27ff0dbe-cf74-4f6e-90f1-fe867b91edbe",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a601990c-2882-47ac-979f-48e34b1102f4",
+      "story_id": "ed9198f6-2fe5-4b7d-89ea-597121e1361d",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a48388f6-1cf0-4583-a9ef-8be315bb3bf0",
+      "story_id": "2842d170-1e3f-4bf3-8908-5eea8c3cbcbc",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "95dda966-df56-47a8-a670-800d8d783d77",
+      "story_id": "a3087936-17fd-489d-9cd6-b12c2a4cdccb",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c3f6dce6-0c50-4882-9d07-447c61afa06d",
+      "story_id": "d36f6f62-5b52-45af-840f-f6e31a9fac41",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "643dc7de-7acd-4e09-8271-f390456e1287",
+      "story_id": "02ba8824-12cf-413f-b7d8-e7c611e21ec9",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1985999a-93f1-48cc-af50-2b7a4163d58f",
+      "story_id": "78cc6bee-43e0-45ce-86a1-a77c471f43cd",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4c44e2b7-4093-47ca-bbc2-4f8ae642af22",
+      "story_id": "048be07e-1d77-4e59-8c94-ea980fa2a482",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fad10f9b-3d3f-41fd-971c-9380b371c3a8",
+      "story_id": "0c8ffe34-1206-4364-95fd-988137cbde29",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "239da3f7-61bb-4ec3-b701-82690fb3415a",
+      "story_id": "20e82ea4-bf76-4232-ab0e-194f5b27a3f9",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5b54b352-b8b5-48fd-bbba-d94afce7ae81",
+      "story_id": "a95f0561-206b-4161-863b-f1d37eca4d0e",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "04931f56-8bd6-4d17-8d25-5a106a74a738",
+      "story_id": "53b5a53c-fd2b-463a-94d3-f45239ddaa91",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "030b788d-8ca5-4f88-8cb9-9dd8542734bf",
+      "story_id": "4f45427b-5e95-43e4-9e5e-38c193882241",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9ac66eca-3aed-4a34-831d-78607636b73f",
+      "story_id": "215b2458-847a-4876-835e-b8b1ab1ba203",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6c107404-a9a3-4c3d-81aa-44ecf8f7a7f2",
+      "story_id": "954badcf-326c-4c8c-ab8a-3ee29fe37e69",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "264994e4-3194-4dbd-8ff2-c04641dc3a0d",
+      "story_id": "24c3df30-bb53-45cc-961e-c686395156b9",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9df7b057-0320-40c9-97c7-3071e2a89e6a",
+      "story_id": "5efe298d-5ffe-4944-b9f7-4354a28c3c00",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2747e210-1733-4ce9-bd5b-888258947b17",
+      "story_id": "283ffedc-db54-48f9-b8d3-3c87c54479db",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "819398ae-9bcb-4254-9396-f441310a9c7c",
+      "story_id": "94b37893-b60f-4d3e-9b9a-655145f991c0",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "aaaaf277-5ff8-423e-a0ea-b36ea8eb6ef4",
+      "story_id": "b3da4ff9-cc1a-40d4-9d51-9a3e64d4eb96",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "aa41fabb-7783-4e25-b8e0-c41293a872e7",
+      "story_id": "d678159e-969d-4a64-a0ca-fbfcfd65f16c",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "19dedde4-6c35-4813-b250-cbb90079b104",
+      "story_id": "1c78a704-a5ba-41d8-ab74-037606339732",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a41c8905-5f59-4130-b03b-b2c32bb046bc",
+      "story_id": "61263b1d-c1d9-4ad6-ae4e-313c9f872df6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3d1f8116-d4b2-4d33-86dd-32fdc92f7fa3",
+      "story_id": "e020a776-8e42-49cb-94df-f4a0a6ad6e7c",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2ab930f4-9261-4c7a-9201-50ba1ad2f493",
+      "story_id": "5e586317-62f6-49b4-ac91-e507461de7bb",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7a01e7fc-293e-45bf-8051-82a7bc4b50c3",
+      "story_id": "99a25073-940f-402d-aa24-4290474ca556",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2f8ded9d-9144-41d5-b634-d43a6d999cbe",
+      "story_id": "425e140a-c61c-4bd8-b7a8-71db6b3fb72f",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e00c068e-db34-48cc-88d4-fd8659c0a297",
+      "story_id": "9363a914-beae-4478-b0dd-2e64e0ed402a",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "bcdefd5e-b87c-4a74-98dd-2b1c2189d6b1",
+      "story_id": "cc8feb33-0bb7-4a5a-a5f4-49b771afd0c2",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fa9f6cfa-852b-4a3f-ae86-8471543034d2",
+      "story_id": "87ef65a0-9a82-486c-afd1-eeaa235ad382",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9ece3008-6c9c-485b-a708-f08bfb21f7c3",
+      "story_id": "b631b87b-d90b-4821-8b50-833267526a31",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f844046d-e1be-477f-8661-9d606a93c67d",
+      "story_id": "dec0dc33-313d-4cda-bc57-c1d76f4a6fcf",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ba064d9b-8def-4b59-8550-00220dcc80d6",
+      "story_id": "79e5e9b9-449f-4f6a-8e64-4ad7a07945e0",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "49d9d815-64c0-462f-b3c2-e4663d6f8346",
+      "story_id": "86396700-12ae-4e80-9de5-3fc51c81c427",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c88a0932-c103-4918-8b07-aa9faf96345c",
+      "story_id": "878daedb-d651-4964-9a79-32a296d1c65f",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "12b02d8a-8586-483f-8330-49dc3af3bf68",
+      "story_id": "22ec8e35-406d-49fc-aa0a-5b822f68ffe5",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9690379c-ec16-412e-8964-552534745341",
+      "story_id": "ed2bba5f-600c-48f3-a64b-c742388d3db6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9608033f-4d4a-46a5-9435-3e1fe1494d3e",
+      "story_id": "b5064e7e-75b8-48ca-9a2c-26ab02905dca",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ef08b0bf-3372-4c64-a338-604c4d9e1f9a",
+      "story_id": "aa4e5a74-76b6-449a-bbde-f01dc63b03ac",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d3c18ed9-0b82-4f13-b0d5-293752fde6a6",
+      "story_id": "788c0001-3357-4ff3-aec9-e38059fa9789",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2646af2f-d0c1-448e-8620-dfc56fde2edd",
+      "story_id": "ccf325b5-4012-4d8e-8a70-8fcfdb90e4fe",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5a4f2b33-eb0c-4cf8-a2dc-3ba3a49393ae",
+      "story_id": "7db145a1-1ac7-45f6-af30-1a8f29c920b3",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3ff8f5b7-1028-45d8-9148-f4e589acde52",
+      "story_id": "c185e388-c7c4-44b6-b935-c35cee7d1130",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1fd33df2-32c5-451d-b86d-b8c1ff4dc981",
+      "story_id": "348f7668-9235-4eca-aa75-93913df7a6f9",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cc1d1b72-9853-4af4-b9fc-19c21ec6a85c",
+      "story_id": "b1fa198c-eba4-4c80-ac2d-e219bd2df476",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "396f5751-b370-4745-82ab-7a7f311d9459",
+      "story_id": "d35208ba-8ade-46df-a090-b3b4dd32a26e",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8f529409-2596-49f3-8c29-9b21f0e2b457",
+      "story_id": "aa5c878f-4a71-4b6f-8902-910ca324ce59",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7e108fec-ba3b-4db6-8a1e-ae28adaed947",
+      "story_id": "09a85b0f-a012-41b1-b1c2-b2dea9e096bb",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8b503f76-b802-4700-bae3-154c212b1a7c",
+      "story_id": "747c0944-2bb0-4c9b-b2d1-fd189ae42627",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cceb1c48-fa03-4420-ba14-fe821a487d2b",
+      "story_id": "1885015b-eb38-4a34-9526-796b91dfaf06",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d92e296b-fefe-434e-b52a-823bb9fd7ea8",
+      "story_id": "2666cbd7-3b62-4de9-a2b3-a80a1a1e8c4b",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "620135cf-2fd2-474c-8f7b-6d1168f624c7",
+      "story_id": "d95edb89-2f52-48a8-8add-d55bd2b546b0",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "25fd5809-48bd-4934-a6ee-e13d84eef37c",
+      "story_id": "adae7d84-e30e-4c14-b1f5-4e5e2038d990",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "22a06d36-91f4-4ae5-85b7-d3a54ef8cb5f",
+      "story_id": "822fe76e-e8c0-41a0-a05d-d44a0db01861",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "41c8cad3-0b79-49ac-a613-80b7233561c1",
+      "story_id": "068af412-8744-4620-99dc-90670e1fedf8",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5c468e24-b80e-40bd-9ca0-a2c14aa62f60",
+      "story_id": "ad96bb84-7055-47a0-ace1-365be1a14de1",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9fdd77be-24ce-49eb-beb7-48e13ba0a3a2",
+      "story_id": "ef29d900-3fc4-4c57-83af-9989226bef37",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b564bab7-6399-48af-8577-7f48deca4f35",
+      "story_id": "61d3fb51-922c-4fed-8049-fbcaf87c57ce",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "eac37a19-3c74-4dc4-89b1-960c03420951",
+      "story_id": "4fe2e2f6-8c6a-466f-95a5-fe443ce4dcd6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1d36084b-8e77-46fe-ada1-60e23dd3e1e6",
+      "story_id": "bc726a36-2718-4620-9b31-0f80aa30c3cd",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "05064c22-3a3f-40a7-82f6-a19c08433a9a",
+      "story_id": "9a3edccd-af8e-4c3d-9ff9-5b0b13f122c6",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c91d13cb-589f-4d26-ab71-651eec1b48ad",
+      "story_id": "891457bb-4be8-4dd3-99df-5ec9b0bbd3f3",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8e61b0b6-8485-4bee-a1be-8208f93bf4ea",
+      "story_id": "2d7e218a-aef5-431a-8b9b-ba2a8c4fe887",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "17315f43-7bcb-4685-84c3-5ab4ca2e95b2",
+      "story_id": "8565c74c-1b19-4a61-8b3b-3755a08f86bb",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "51889510-df31-421c-8397-5dbed496fc1d",
+      "story_id": "2f52a517-b8fe-49e0-86c3-c74dcc00070d",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f46cf789-13f1-4fac-a66f-4edf6d6408b6",
+      "story_id": "49c3b76e-1cc5-47e6-a8c8-556c3f92b420",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "af7640e5-9718-41a5-a6bf-9c0e1607e158",
+      "story_id": "a8ad872b-822b-450c-b4d7-e2f9f32ef19e",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "bbf3e0d9-8424-4ffe-aed6-196c0aa09876",
+      "story_id": "971a4e38-dd47-4d9b-8653-744af7179873",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "42e9adaa-ddac-4b34-a141-fc0fc4916983",
+      "story_id": "d546ded8-3521-42a2-8f6c-2c60482496ee",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0e082175-6996-49b3-9bb0-572623e7616c",
+      "story_id": "b951a0ef-d664-4a0c-b61e-5b50a3893d36",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1bcadea4-e928-494d-86d4-5b454b832e83",
+      "story_id": "5c8c39ae-11a6-43d5-814d-133d469fffe2",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8fbb6a95-56e5-4017-a5df-1395c2dcbb6f",
+      "story_id": "755eeac4-2316-4ae1-ae7e-357a49d4b9f5",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1c1d1982-620a-4d0f-bfaf-087653d80c34",
+      "story_id": "d30fa342-d5fc-4954-a2f5-e690fe9ae48d",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "34c37725-34eb-4f9e-92ca-c2332d8ca29a",
+      "story_id": "a50da229-79bc-4adc-8fda-9482723850cd",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0
+    }
+  ],
+  "count": 100
+}

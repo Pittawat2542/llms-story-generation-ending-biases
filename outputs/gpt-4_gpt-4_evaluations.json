@@ -1,0 +1,705 @@
+{
+  "evaluations": [
+    {
+      "ending": "positive",
+      "id": "0b8a98fc-ed32-4053-be0c-fa5027f07033",
+      "story_id": "63726281-5d86-4f27-958a-d04afaa07c5b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "12ada656-0c00-4863-a64f-9e196133a26f",
+      "story_id": "30f308f2-5e7a-4582-bde5-790c23961321",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7ed0b9c6-486d-4094-b829-71d271976046",
+      "story_id": "a53df2f9-978d-4e59-aeb8-3998860e2b15",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "31aabd69-4163-476c-9842-ab58f17f174a",
+      "story_id": "443ce55f-c424-4fa4-af43-fe1629732778",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d1c00477-99c6-4fce-a012-58f35c8bbb03",
+      "story_id": "007938ab-5b33-4224-b58c-00ef470b3918",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c35ee29e-79f4-43df-900b-0e765c57f19f",
+      "story_id": "09880675-e6f1-41b9-bb92-f0e2797b3fab",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7252b2fe-a206-46a5-a239-3870d5bfdc0e",
+      "story_id": "83b34c2e-4d5d-41a8-abe3-8299ab189518",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "34958473-7c6e-4026-8bd0-0378ea8821e6",
+      "story_id": "a60e8d1b-338e-4ff6-9259-e0738fc2176b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ee48ad43-8743-4cb6-aefa-600528b84b83",
+      "story_id": "f19fc466-f2f4-4ac2-af65-cb6c47bf6451",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b0973dba-3d23-4b3d-b15a-df101caaec67",
+      "story_id": "1cea0e83-33c8-4da2-ad3e-f0c5cfed404a",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "056279ad-8c73-457f-8165-3457fe1727e5",
+      "story_id": "8f4bcd09-d059-4765-97ef-9be2631ce9a7",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0a51e8d3-3176-41a5-84f6-d535e3d2c71d",
+      "story_id": "5a38854f-711d-487f-bf17-f1cac4328591",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "82482733-5586-45be-abed-4b93b16bdda1",
+      "story_id": "fe549b04-4791-4684-9d8c-b8ec236fd3f6",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f175ecbe-9f6d-4fcb-96c0-4501afb2f80d",
+      "story_id": "9bc599cd-34f3-42b9-8d8a-22a9df255f7d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "33218b9f-7dfa-48e3-a0f4-c0cb20d90c32",
+      "story_id": "f9aa8de1-bbcd-4d73-bf87-58757df7ac43",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e42c1012-5e59-470a-9a4c-6c0914ea7b56",
+      "story_id": "802ef3f2-3681-4a93-a542-8f0134a5610d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fef636ed-6808-4632-8921-7ac3a0f3cac2",
+      "story_id": "cda98d63-e9b9-4195-81f7-fcd19ecd60f7",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d68f7af5-6211-4a65-ba6a-82b2071c598a",
+      "story_id": "3e8d14cd-02ec-41f0-b8b9-a23b2506b83b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b64e2456-ec0e-46c1-ab02-bae9cce5fdf2",
+      "story_id": "a2c179a3-4661-498a-91bd-08403288b725",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "24b41914-f06c-485d-9987-970ad4fd6c2a",
+      "story_id": "ccd58572-c17e-4706-af49-6a846e06fb77",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2c63bbb3-a443-42eb-95af-d8ef8736d4bc",
+      "story_id": "363d925f-9ba4-4f62-8c11-bd1f0d96913e",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2abed388-411a-4a7c-b0cb-5b2783feab2a",
+      "story_id": "419bec73-c693-46a1-95ec-b324fa7ac84c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f75cbad9-9318-42b7-8fd4-33cd98cca5a5",
+      "story_id": "930893a3-361f-436e-9540-44cbdfb50466",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f1f5b469-1089-4409-95a0-c3c150a276b6",
+      "story_id": "eaf06692-7e76-4998-b012-19879b68781a",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "718d6b04-8909-442e-a886-766e234348f8",
+      "story_id": "1d2dbb5e-1b5b-4de2-a418-e18556cb4e4c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6d748e73-08da-431c-bf0d-bb3ea47ad8df",
+      "story_id": "9e5be73e-32b0-479b-9f64-3546a7125e43",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "01d77f46-a92a-446a-b12e-78b66d6deab2",
+      "story_id": "f284391b-8080-4a08-954f-28a2bb010b5e",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "30fe7b70-4125-4c8a-9269-df9b53ac4664",
+      "story_id": "1720a333-e125-4cfb-938a-a1ba24de8a11",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d1b0927a-870f-4811-b4c7-7f9272d32412",
+      "story_id": "64b8720c-4200-435c-8614-cf64ded3abe1",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "73f3c42d-6dea-4eae-bae0-ab37af34c280",
+      "story_id": "c8e01903-904f-4f73-8a57-d830e050cdab",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "39935900-b71d-49b4-8ed5-d38745a04232",
+      "story_id": "6895d007-4830-467f-ba6c-045ad805a6af",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "bcfc9d5e-0bb4-47ce-a7b0-c1edf4699d9a",
+      "story_id": "3c97e155-56b7-4a6c-be81-b12fb9e95c9c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d5f72bd4-899f-435f-b11b-02b335c66373",
+      "story_id": "4451c28d-2207-417d-8893-6ef18dcbc77c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4c7c580f-da93-40e9-9ece-ea0fe68f8d83",
+      "story_id": "d91e047c-403c-4092-bd20-ca89c9b7bd3d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "66daa84d-fb14-44ea-a2c0-541a17ea15a0",
+      "story_id": "f9076efa-d10b-4ac3-9625-f30092200284",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e1a9092b-bfa5-45c8-b003-68c4cc262939",
+      "story_id": "5fdea342-be06-4223-9958-2355485a65ed",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "9bcdd6a4-db9b-4909-9015-7c160da08427",
+      "story_id": "5021ff36-55e1-4b1b-8343-ecac95cb24a5",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b9594c0d-27fc-40e5-bd0e-87a38c62cae8",
+      "story_id": "44dfeac1-152d-4b18-a5bd-6f0920e813ed",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "ba280f0b-a576-4a7f-8c3f-f56b54fdeb46",
+      "story_id": "18de4be0-1e7c-45ba-b868-f6ed7c6a6f8b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "eae799b6-eb11-40fa-884d-a0caa544a725",
+      "story_id": "0daf7349-90da-43a2-af99-90df95e75566",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fadf5066-14f8-4355-a66f-c66d335fdd75",
+      "story_id": "6224afa2-59de-4b8a-af53-e64a060f7739",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "58f249eb-34c6-47bc-b64e-52a1d39f3499",
+      "story_id": "a0dfcf1b-5023-4a6d-b733-21abe6c54886",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ef47f729-297c-40ea-a54d-1727e3590206",
+      "story_id": "76a5e91e-0977-48f8-badb-5e68e41507e5",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "64d53b9e-78c6-4599-bc04-c2a453badd05",
+      "story_id": "64e4fce9-e3fe-4705-bc03-819ae01631d9",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "1ddc4749-2936-46fe-849e-6f6f98347fd5",
+      "story_id": "448ea80a-6ebf-4872-afa2-d2fd4953b178",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7f8b942d-8054-4361-8ea3-ec13b7db4a9a",
+      "story_id": "cda14b6c-ee1f-4533-92bf-80d2a5952bb4",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "13177484-9d1e-4e81-ab0d-667de7ce5c54",
+      "story_id": "5eb26d9f-50a7-4a9c-85ed-fd1a68b5cfd9",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cd9e8e7a-36e9-4a4a-914c-f5d65a4fb8a7",
+      "story_id": "7c323967-ba59-4f1c-aabf-70f33b6c1495",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "e6f16c2e-7627-41ca-b375-331dc32c615c",
+      "story_id": "63d7dd6f-ea3b-4d8e-bdb6-996058834d38",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e2258d11-bd95-4734-adc4-3a56c25ba4e1",
+      "story_id": "dfa53dd7-bc0c-4d38-992c-cd911251e828",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6d71644a-36f6-4201-8d18-3da3b3339b50",
+      "story_id": "9a5e87db-44d8-4539-a32d-510c6a52eeda",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "2ab55f5e-1c1c-45d9-ba19-86a3f96deb30",
+      "story_id": "e9748752-fd44-44e3-b8bc-81b07d53726c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d89fe59f-0a93-448f-95fb-0c7f839200eb",
+      "story_id": "db23ba62-eebe-4e7c-ae41-a9810f6c076e",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0c0ab177-e4f0-47fb-aa2c-171edbe542d4",
+      "story_id": "91305c70-5f3b-4488-abe9-b5cc4c7eeb23",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c190aa43-b406-4e1b-bf57-edd1c7ed46e8",
+      "story_id": "590998fd-c447-4228-a511-6c21ec0981be",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6ff5a35f-d782-4830-b965-a70711b0bdd1",
+      "story_id": "5257173a-638d-4c47-afdf-baf88cd170e8",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "35608603-35ca-47b9-bfcc-f775c76abd34",
+      "story_id": "c5b9d6d8-b2cc-4b11-b95d-801e8bf57d9d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "86ca58d7-9ff2-4cb1-b718-2acf07d2c586",
+      "story_id": "20644510-33fd-49c9-ab92-19041f38e1d0",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "e7fbea87-9eaf-4e4b-8f12-5d86640c854a",
+      "story_id": "15d47ff5-bef9-4cc1-8a74-a0428a58b5c7",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a6af4623-df06-4fb8-adb5-1659b28f2f1c",
+      "story_id": "1d7cfb56-4211-4cdc-8cd6-829254d400de",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a3be37ac-1d92-43f5-86d0-9f022a8b1647",
+      "story_id": "6ae2f202-b9a2-4496-a33c-b7c44f27631c",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a4844bb3-a75e-4ce9-916d-2c7b438c576d",
+      "story_id": "ef4ecf38-6306-4546-88ab-9244f6c6f5ae",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "556850c5-f6d1-4ab8-85ad-9f737b159d0c",
+      "story_id": "71949237-87b4-43eb-9552-e29d0a8f3d1f",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "fa83d8f7-6943-4e7d-a680-0f1da8eea658",
+      "story_id": "22eb3c2a-32df-40c3-a48e-f13ca90887ee",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6b3e8825-f37b-4ec0-af24-075415b23871",
+      "story_id": "e36e07d3-1e9b-4063-9e9c-8276aa12da68",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "277dd1c9-e039-4ee7-9db1-b253b5632237",
+      "story_id": "ef0cd27a-842d-4fb6-863e-f6278e509ff1",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "57780533-483e-46e3-83d4-9206d0639dc1",
+      "story_id": "21d752a5-486d-4adc-9946-f1342a000927",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3d005dd5-2aa5-46ac-bd82-4e41736a37f7",
+      "story_id": "0e8d7079-e9f0-4c61-9270-6a98493c96fa",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ebdefd42-6bdc-4bd6-ad5b-1a45c4bb9615",
+      "story_id": "34d78734-f785-4aea-97d9-fa5055a80dd4",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "96532832-7730-4c23-a14c-362c24e1cf13",
+      "story_id": "a87135ef-33c8-4d7b-858d-523339f3d034",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7dd84321-3007-47cf-9fa0-61e8dff6d459",
+      "story_id": "4cc8d9e7-bfdd-4e25-ada8-9dde13f2d01b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f0a2c6a9-b070-47df-ac4c-5e9d0e1116d0",
+      "story_id": "22e82001-7d9a-45d7-9188-477f14a7acd8",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0e3c6b95-e2f7-4ea1-8111-3f57ce3369f3",
+      "story_id": "ddd98232-7a73-47dc-aba8-21762ce49dbd",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "112bab62-0317-4625-ad37-8bae3746ad5f",
+      "story_id": "a710f0a4-d2c4-435f-8b23-0b9a1398adc1",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ed9dd44f-e1bf-4386-930b-2dd3eea0909b",
+      "story_id": "555b824d-443d-46ad-982f-750cdd7a97a2",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "bittersweet",
+      "id": "847277a3-9620-4f7a-b9e8-a527e8574302",
+      "story_id": "b329dcf8-741a-4c45-ae71-c4dae0a07b47",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "acbb68a6-dd60-4ba3-92d6-6a24b62fe721",
+      "story_id": "9e47f3e3-6e97-4553-9115-882dbf52571d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "af97ccea-6c6f-477d-8572-6bfcf04c0c1d",
+      "story_id": "2300888e-2989-448a-ba6b-5e998710af13",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "bd3d1d59-d606-4551-8ef0-99da0d6a2e2c",
+      "story_id": "b36a19b8-5d1f-4ba3-ab5c-7c42dca6991d",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4c328e3e-6072-40ba-8fc6-c5b9d155e60c",
+      "story_id": "e1857889-0d4f-4783-a9b5-39e23ccb6aa7",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5d556f6e-6340-46ed-a691-2847bdd8a789",
+      "story_id": "f7556cd5-588a-44bd-a911-ec5751001f7f",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "608dfb16-0b37-423e-86a2-4421d7e6c078",
+      "story_id": "88be7276-4614-425c-975e-f8170d2011bc",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "671ebea5-7b13-45ef-99a4-0eb1d0321a41",
+      "story_id": "d933abfa-68b3-427e-96e6-f6cfe0e8bcaf",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d8eb417e-01a6-463f-8367-9a25852c1b42",
+      "story_id": "ec00c358-a65b-4c39-95b6-e385af8be911",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "46f23844-d226-4922-99bb-e9c01ddb3a18",
+      "story_id": "173cbf2d-90f5-442d-9aa8-06cd7f8f5fab",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8db7eb9a-c350-4942-814f-0ebf5f42ea0a",
+      "story_id": "638d03a6-2bae-48ed-8e8f-fe78d7ad2ee1",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "95b9ce06-ed8c-4163-93bf-082a4969a950",
+      "story_id": "7eab1a90-35e9-4bf3-9401-a16813e9785a",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "982fa478-0f69-4d42-a5ea-03b7910ca5f1",
+      "story_id": "4d3a8618-55c1-41f9-8f79-6b40e5b37ed1",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0c12770f-73d8-4e0e-95bd-7ff1c4fb96d7",
+      "story_id": "118cc8ab-6f66-4f07-bd61-7962116b3e25",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "831f498f-dc26-4ef1-a463-06349d4151de",
+      "story_id": "3df9b032-1c83-4a66-b717-e7a3da1d922b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "e25649db-d872-46cc-925f-729acb56c7e3",
+      "story_id": "d2480336-4659-426e-ba0a-f62dacde8519",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "200d2618-9a88-48d3-8a2d-e8dd5b869d38",
+      "story_id": "b63c59c9-4c0e-469a-97d3-76b4d0234f4b",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a3965a28-a474-4ec0-bf63-031bd500e91e",
+      "story_id": "6e2bab3b-1c88-4926-8943-ddb894d077f0",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "110abbac-2547-409e-baaa-f9e9fa38a2e6",
+      "story_id": "3efe19d9-3d57-4127-83c5-b82ae3f1e5ea",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "506fbfd7-2292-4fc3-bc15-8540381da7c4",
+      "story_id": "0b3dac96-5801-494d-bc38-ddeabfe82bc4",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4a1846d8-3036-48cc-8c8b-944f01bcb4f0",
+      "story_id": "47bbcaea-8561-4837-8dca-481c64c32d76",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "21969e99-bb3c-4605-b86d-25de66d80a14",
+      "story_id": "0cf18be5-610f-46df-9505-ce502272234f",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f58dfa00-677a-4473-875e-3519e1f20768",
+      "story_id": "e71b008f-0671-44d9-86da-a80af63c5461",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c24d86ce-7550-42ce-bdac-dae773761123",
+      "story_id": "9fe6fe59-686b-4b29-873b-6916089cbe11",
+      "model": "gpt-4",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4fe7f1b1-c144-4f48-9f6f-7ceb60643c83",
+      "story_id": "44adfc5f-d282-41f4-981e-2665a23189e4",
+      "model": "gpt-4",
+      "temperature": 0
+    }
+  ],
+  "count": 100
+}
