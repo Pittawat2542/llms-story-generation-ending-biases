@@ -1,6 +1,9 @@
-# What Is Waiting for Us at the End? Inherent Biases of Game Story Endings in Large Language Models
+# What Is Waiting for Us at the End? Inherent Biases of Game Story Endings in Large Language Models ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-47658-7_26))
 
 This repository contains the code for the paper "What Is Waiting for Us at the End? Inherent Biases of Game Story Endings in Large Language Models" accepted at [ICIDS 2023](http://icids2023.ardin.online).
+
+## Authors
+Pittawat Taveekitworachai, Febri Abdullah, Mustafa Can Gursesli, Mury F. Dewantoro, Siyuan Chen, Antonio Lanata, Andrea Guazzini, and Ruck Thawonmas
 
 ## Abstract
 
@@ -30,4 +33,20 @@ pip install -r requirements.txt
 4. Run the script for story generation and evaluation:
 ```bash
 python main.py
+```
+
+## Citation
+```bib
+@InProceedings{10.1007/978-3-031-47658-7_26,
+  author="Taveekitworachai, Pittawat and Abdullah, Febri and Gursesli, Mustafa Can and Dewantoro, Mury F. and Chen, Siyuan and Lanata, Antonio and Guazzini, Andrea and Thawonmas, Ruck",
+  editor="Holloway-Attaway, Lissa and Murray, John T.",
+  title={{"What Is Waiting for Us at the End? Inherent Biases of Game Story Endings in Large Language Models"}},
+  booktitle="Interactive Storytelling",
+  year="2023",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="274--284",
+  abstract="This study investigates biases present in large language models (LLMs) when utilized for narrative tasks, specifically in game story generation and story ending classification. Our experiment involves using popular LLMs, including GPT-3.5, GPT-4, and Llama 2, to generate game stories and classify their endings into three categories: positive, negative, and neutral. The results of our analysis reveal a notable bias towards positive-ending stories in the LLMs under examination. Moreover, we observe that GPT-4 and Llama 2 tend to classify stories into uninstructed categories, underscoring the critical importance of thoughtfully designing downstream systems that employ LLM-generated outputs. These findings provide a groundwork for the development of systems that incorporate LLMs in game story generation and classification. They also emphasize the necessity of being vigilant in addressing biases and improving system performance. By acknowledging and rectifying these biases, we can create more fair and accurate applications of LLMs in various narrative-based tasks.",
+  isbn="978-3-031-47658-7"
+}
 ```
